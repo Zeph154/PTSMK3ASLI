@@ -1,0 +1,11 @@
+:root {
+  --dark: rgba(10, 20, 47, 1);
+  --typo-heading-06-font-family: "Barlow", Helvetica;
+  --typo-heading-06-font-weight: 500;
+  --typo-heading-06-font-size: 16px;
+  --typo-heading-06-letter-spacing: 0px;
+  --typo-heading-06-line-height: normal;
+  --typo-heading-06-font-style: normal;
+  --base-spacing-system-spacing-xs: 8px;
+  --base-spacing-system-spacing-m: 24px;
+}
